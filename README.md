@@ -7,7 +7,7 @@ This repository contains automated frontend tests written in **Playwright** for 
 ## Tech Stack
 
 - [Playwright](https://playwright.dev/) (Node.js)
-- JavaScript
+- Typescript
 - CLI-based test execution
 - Optional: headed mode for visual debugging
 
