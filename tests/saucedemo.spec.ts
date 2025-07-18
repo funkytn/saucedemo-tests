@@ -1,5 +1,5 @@
 // Automatizované testy pre Moxymind technickú úlohu
-// Playwright + JavaScript
+// Playwright + TypeScript
 
 import { test, expect } from '@playwright/test';
 
